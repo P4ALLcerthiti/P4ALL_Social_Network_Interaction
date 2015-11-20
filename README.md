@@ -15,15 +15,15 @@ The repository contains the below directories:
 
 # Dependencies  
 
-The following console is necessary for the execution of Social Network Interaction module:  
+The following libraries is necessary for the execution of Social Network Interaction module:  
 
-[Qt Creator 5.5] (http://www.qt.io/download-open-source/) : The installed version of Qt Creator, must be compatible the existing version of Visual Studio.  
-[Eigen] (http://eigen.tuxfamily.org/index.php?title=Main_Page) : Library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.  
+[Qt 5.5] (http://www.qt.io/download-open-source/) : Used to build the sample App.    
+[Eigen] (http://eigen.tuxfamily.org/index.php?title=Main_Page) : Library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.    
 
 
-# App usage  
+# App usage   
 
-## Step 1: Add file(s) for testing   
+## Step 1: Add file(s) for testing:     
 
 In main.cpp file, the user have to add the paths where the csv files are placed (obj->addFile("C:\\...\\*.csv");).   
 
