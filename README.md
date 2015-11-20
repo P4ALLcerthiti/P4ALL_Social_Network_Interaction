@@ -15,9 +15,9 @@ The repository contains the below directories:
 
 # Dependencies  
 
-The following libraries is necessary for the execution of Social Network Interaction module:  
+The following libraries is necessary for the execution of Social Network Interaction module. Older subversions may also be compatible:  
 
-[Qt 5.5] (http://www.qt.io/download-open-source/) : Used to build the sample App.    
+[Qt 5.5.1] (http://www.qt.io/download-open-source/) : Used to build the sample App.    
 [Eigen] (http://eigen.tuxfamily.org/index.php?title=Main_Page) : Library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.    
 
 
@@ -29,10 +29,8 @@ In main.cpp file, the user have to add the paths where the csv files are placed 
 
 ## Step 2: Set output path 
 
-1. In main.cpp file, the user must set the output path (obj->savePositionsToFile("C:\\..\\testFileCommon.pos");), in order to save the vertices' positions and connections  
-   of the main K-partite Graph.
-2. In main.cpp file, the user must set the output path (obj->savePositionsToFile("C:\\..\\testFileAbstract.pos");), in order to save the vertices' positions and connections 
-   of Abstract K-partite Graph. 
+1. In main.cpp file, the user must set the output path (obj->savePositionsToFile("C:\\..\\testFileCommon.pos");), in order to save the vertices' positions and connections of the main K-partite Graph.
+2. In main.cpp file, the user must set the output path (obj->savePositionsToFile("C:\\..\\testFileAbstract.pos");), in order to save the vertices' positions and connections of Abstract K-partite Graph. 
 
 ## Step 3: Input parameters of the K-partite Graph
 
