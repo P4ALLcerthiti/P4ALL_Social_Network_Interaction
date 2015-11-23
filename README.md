@@ -7,8 +7,8 @@ The repository contains the below directories:
 1. [Code] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Code): This includes the source code of the Social Network Interaction Module.
 2. [Supplementary] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary): 
 	1. [App] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/App) : This includes the source code of  sample application that uses the Social Network Interaction Module.
-	2. [Supplementary Files] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/SupplementaryFiles/TwitterData): Contains the examples files test1.csv, test2.csv, testFileFollowers.csv and testFileFollowing.csv that can be 
-	   used in two groups and are necessary for a user to test k-partite graph. The first group (testFile1.csv and testFile2.csv) is a small and 
+	2. [Supplementary Files] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/SupplementaryFiles/TwitterData): Contains the example files test1.csv, test2.csv, testFileFollowers.csv and testFileFollowing.csv that can be 
+	   used in two groups and are necessary for a user to test k-partite graph. The first group (test1.csv and test2.csv) is a small and 
 	   very simple example and the second group (testFileFollowers.csv and testFileFollowing.csv) contains real data from twitter that presents 
 	   the followers IDs and the following people IDs of some random twitter users.
 3. [API Documentation] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/API%20Documentation) : This includes a documentation of module's basic functions.  
