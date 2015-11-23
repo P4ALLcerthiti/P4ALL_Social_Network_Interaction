@@ -56,9 +56,18 @@ void SocialNetworkInteractionClass::computePositions(float dampenLast, float Dim
 {
     for(int i=0; i<vec.size();i++)
     {
-        vector<string> filenames;
-        filenames.push_back(vec[i]);
-        ch->readFile(filenames);
+        QString filename = QString(vec[i].c_str());
+        QFile file(filename);
+        if( !file.exists() )
+        {
+            fprintf(stderr,"WARNING: The file %s does not exist.\n",vec[i].c_str());fflush(stderr);
+        }else
+        {
+            vector<string> filenames;
+            filenames.push_back(vec[i]);
+            ch->readFile(filenames);
+        }
+        file.close();
     }
 
     for (int i = 0; i < 60; i++)
