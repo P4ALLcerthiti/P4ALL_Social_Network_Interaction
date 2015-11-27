@@ -13,7 +13,6 @@
 #include "vsCSVFile.h"
 #include "vsSparseMatrix.h"
 
-#include <QtGui>
 #include "fstream"
 vsGraph::vsGraph(){
 

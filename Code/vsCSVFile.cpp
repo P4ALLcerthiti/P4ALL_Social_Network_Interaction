@@ -147,12 +147,15 @@ bool vsCSVFile::getInput(vector<string>& files,vector<int> numberof_time_periods
 	{
 		char* filename=new char[100];
 		strcpy(filename,files[i].c_str());
-		ifstream inFile(filename);
-		
-		//inFile.open(filename);
-		
+		ifstream inFile(filename);	
 		
 		if ( inFile.is_open() ){
+            if ( inFile.peek() == std::ifstream::traits_type::eof() )
+            {
+               fprintf(stderr, "Empty file \"%s\" \n", filename);fflush(stderr);
+               return false;
+
+            }
 
 			fprintf(stderr, "Parsing file \"%s\" ... ", filename);fflush(stderr);
 			
@@ -187,13 +190,27 @@ bool vsCSVFile::getInput(vector<string>& files,vector<int> numberof_time_periods
 				ofs<<"3 ";
 				//Parse the feature values
 				vsLine* current_Line=new vsLine;
-				while (p != NULL){
 
+                bool flag = false;
+                int counter = 0;
+				while (p != NULL){
+//                    printf ("%s\n",p);
+                    string str = p;
+                    if(str.empty())
+                    {
+                        flag = true;
+                        break;
+                    }
+                    counter++;
 					//Add word to line
 					current_Line->addWord(p);
 					//this->Line[cL]->addWord(p);
 					p = strtok(NULL, delims);
 				}
+                if(flag || counter < 2)
+                {
+                    continue;
+                }
 				Line.push_back(current_Line);
 				this->NoLines++;
 				delete[] line;
