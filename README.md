@@ -1,6 +1,4 @@
-# P4A - Social Network Interaction  
-
-A module for clustering large numbers of social networks’ users based on their common features.   
+# P4A - Social Network Interaction     
 
 P4A Social Network Interaction is a module for clustering large numbers of social networks’ users based on their common features. The algorithm performs anomaly detection and root cause analysis over a K-partite graph, for being able to cluster the data.  
 
