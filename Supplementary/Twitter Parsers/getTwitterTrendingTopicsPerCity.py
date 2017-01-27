@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  8 11:48:27 2016
 
-@author: zamihos
-"""
 
 import time
 import tweepy
