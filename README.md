@@ -15,29 +15,29 @@ The repository contains the below directories:
 	3. [Twitter Parsers] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/Twitter%20Parsers) : This includes the source code of the twitter parsers, written in Python.  
 		i. [getTwitterTrendingRopicsPerCity.py] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Twitter%20Parsers/getTwitterTrendingTopicsPerCity.py) : Twitter parser for collecting the trending topics for specified cities.  
 			Inputs: The following parameters are passed as inputs to the script via the [configuration.ini] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Configuration%20Files/configuration.ini)  
-					- User's authentication params
+					- User's authentication params  
 					- Cities : A list with the cities (seperated with commas) that we are interested in  collecting their trending topics.  
-					- Cities WOEID: A list with the corresponding cities' WOEID (seperated with commas). You can find a city's WOEID [here] (http://woeid.rosselliot.co.nz/).
-					- Continent : A list with the corresponding cities' continent (seperated with commas).
-			Sample Output: 
+					- Cities WOEID: A list with the corresponding cities' WOEID (seperated with commas). You can find a city's WOEID [here] (http://woeid.rosselliot.co.nz/).  
+					- Continent : A list with the corresponding cities' continent (seperated with commas).  
+			Sample Output:   
 					
 		ii. [getTweetsCity.py] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Twitter%20Parsers/getTweetsCity.py) : Twitter parser for collecting tweets containing certain keywords around specified areas.  
 			Inputs: The following parameters are passed as inputs to the script via the [configuration.ini] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Configuration%20Files/configuration.ini)  
-					- User's authentication params
-					- KeywordsList: A list with key-words (seperated with comma), for searching tweets containing these key-words.
-					- Cities : A list with the cities (seperated with commas) that we are interested in  collecting the relative tweets.
-					- Cities_lat_lng : List with the latitude, longitude and the searching area for each of the corresponding cities, that we are interested in  collecting the relative tweets. 
-					- lang : language
-					- recordsPerCity : Max number of records per city
+					- User's authentication params  
+					- KeywordsList: A list with key-words (seperated with comma), for searching tweets containing these key-words.  
+					- Cities : A list with the cities (seperated with commas) that we are interested in  collecting the relative tweets.  
+					- Cities_lat_lng : List with the latitude, longitude and the searching area for each of the corresponding cities, that we are interested in  collecting the relative tweets.   
+					- lang : language  
+					- recordsPerCity : Max number of records per city  
 			Sample Output:  
 			
 		iii. [getUsersIdsSpecificTweets_v4.py] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Twitter%20Parsers/getUsersIdsSpecificTweets_v4.py) : Twitter parser for collecting the Following and the Followings for a number of users.  
 			Inputs: The following parameters are passed as inputs to the script via the [configuration.ini] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Configuration%20Files/configuration.ini)  
-					- User's authentication params
-					- keyword: Searching users who have posted tweets containing the specified keyword.
-					- users_limit : Max number of users
-			Sample Output:
-	4. [Sample Data] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/SupplementaryFiles/TwitterData): Contains sample output data for each Twitter Parser.
+					- User's authentication params  
+					- keyword: Searching users who have posted tweets containing the specified keyword.  
+					- users_limit : Max number of users  
+			Sample Output:  
+	4. [Sample Data] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/SupplementaryFiles/TwitterData): Contains sample output data for each Twitter Parser.  
 
 # Dependencies  
 
@@ -49,9 +49,9 @@ The following libraries is necessary for the execution of Social Network Interac
 
 [Tweepy] (http://www.tweepy.org/) : Used to access the Twitter API.  
 
-3. The scripts was tested in Python 3.4
+3. The scripts was tested in Python 3.4  
 
-The app was built and ran using [Qt Creator] (https://www.qt.io/download/) 3.5.1 
+The app was built and ran using [Qt Creator] (https://www.qt.io/download/) 3.5.1  
 
 # App usage   
 
