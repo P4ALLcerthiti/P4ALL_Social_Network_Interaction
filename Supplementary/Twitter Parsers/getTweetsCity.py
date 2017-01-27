@@ -111,7 +111,7 @@ for city in range(0,len(cities)):
             except StopIteration:
                 break
     
-with open(filePath+'twitterIds_dataset_cities_new_Alex.csv','wt') as csvfile:
+with open(filePath+'twitterIds_dataset_cities.csv','wt') as csvfile:
     csvfile.write('tweetId,author,keyword,tweetCreated_at,userId,screen_name,tweetType,city,text\n')
     for line in csvfile_list:
         csvfile.write(line)
