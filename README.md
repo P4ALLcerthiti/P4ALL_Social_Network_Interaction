@@ -55,9 +55,9 @@ The Twitter parsers were tested in Python 3.4. The app was built and ran using [
 
 # App usage   
 
-## Step 1: Set the [configuration.ini] () file    
+## Step 1: Set the [configuration.ini] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Configuration%20Files/configuration.ini) file    
 
-## Step 2: Set the [parameters.ini] () file and pass it as input to the app
+## Step 2: Set the [parameters.ini] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Configuration%20Files/parameters.ini) file and pass it as input to the app
 
 1. Set the number of the example in order to to run the corresponding twitter parser (e.g. runExample=1: Runs the [TwitterParser1] ())
 
