@@ -40,7 +40,7 @@ The repository contains the below directories:
 	4. [Sample Data] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/SampleData) contains:   
 		i.  sample output data for each Twitter Parser.  
 		
-		ii. [Results] () : contains the final output of the 1st example. The directory contains two csv files describing topology of the graph ([graph_structure.csv] () and the  [vertex_positions.csv] () ) and an image view of the results.  
+		ii. [Results] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/tree/master/Supplementary/SampleData/Results) : contains the final output of the 1st example. The directory contains two csv files describing topology of the graph ([graph_structure.csv] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/SampleData/Results/graph_structure.csv) and the  [vertex_positions.csv] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/SampleData/Results/vertex_positions.csv) ) and an [image] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/SampleData/Results/trending_topics.png) view of the results.  
 	
 
 # Dependencies  
