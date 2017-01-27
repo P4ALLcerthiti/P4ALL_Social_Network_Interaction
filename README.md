@@ -59,7 +59,7 @@ The Twitter parsers were tested in Python 3.4. The app was built and ran using [
 
 ## Step 2: Set the [parameters.ini] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Configuration%20Files/parameters.ini) file and pass it as input to the app
 
-1. Set the number of the example in order to to run the corresponding twitter parser (e.g. runExample=1: Runs the [TwitterParser1] ())
+1. Set the number of the example in order to to run the corresponding twitter parser (e.g. runExample=1: Runs the [1st Parser] (https://github.com/P4ALLcerthiti/P4ALL_Social_Network_Interaction/blob/master/Supplementary/Twitter%20Parsers/getTwitterTrendingTopicsPerCity.py))
 
 
 # Funding Acknowledgement
