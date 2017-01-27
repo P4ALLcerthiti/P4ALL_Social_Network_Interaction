@@ -1,0 +1,357 @@
+SourceVertexName,SourceVertexLabel,TargetVertexName,TargetVertexLabel,EdgeWeight
+Athens,city,Europe,continent,31
+Berlin,city,#Gambia,topic,1
+Paris,city,#4GBox,topic,1
+New York,city,Makonnen,topic,1
+Les Ivoiriens,topic,Europe,continent,1
+#FCGBTFC,topic,Europe,continent,1
+London,city,#NHCPerfume,topic,1
+London,city,Melania Trump,topic,1
+Athens,city,Βαλαντη,topic,1
+Kincora,topic,Europe,continent,1
+#APB2017,topic,Europe,continent,1
+#takeshiscastle,topic,Europe,continent,1
+Leopards,topic,Europe,continent,1
+Berlin,city,#Wannseekonferenz,topic,1
+Paris,city,#APB2017,topic,1
+Paris,city,#AusOpen,topic,1
+Berlin,city,#WhoseMuseum,topic,1
+Paris,city,Leopards,topic,1
+New York,city,Zach Orr,topic,1
+#NHCPerfume,topic,Europe,continent,2
+New York,city,#USofScience,topic,1
+Athens,city,Schaeuble,topic,1
+Ουασινγκτον,topic,Europe,continent,1
+#DisruptJ20,topic,America],continent,1
+Paris,city,#BoulogneBillancourt,topic,1
+Athens,city,#Panathinaikos,topic,1
+Berlin,city,#wef17,topic,1
+London,city,#buildbridgesnotwalls,topic,1
+Kellyanne Conway,topic,Europe,continent,1
+Berlin,city,#EM2024,topic,1
+#PenguinAwarenessDay,topic,America],continent,1
+Athens,city,Ανθυπατος Μουλοπουλος,topic,1
+Μελανια,topic,Europe,continent,1
+#ThankYouObama,topic,Europe,continent,1
+#WhoseMuseum,topic,Europe,continent,1
+#FCMMHSC,topic,Europe,continent,1
+London,city,Kellyanne Conway,topic,1
+#USofScience,topic,America],continent,1
+Schaeuble,topic,Europe,continent,1
+Athens,city,Μελανια,topic,1
+#Kleinheisler,topic,Europe,continent,1
+Begovic,topic,Europe,continent,1
+Berlin,city,#NEVERSAYGOODBYE2NE1,topic,1
+#Panathinaikos,topic,Europe,continent,1
+Cadore,topic,Europe,continent,1
+Berlin,city,#Kleinheisler,topic,1
+Βαλαντη,topic,Europe,continent,1
+London,city,First Lady,topic,1
+London,city,#Inauguration,topic,1
+#tbBeetches,topic,Europe,continent,1
+Berlin,city,#FridayFeeling,topic,1
+London,city,#IFindItKindOfSad,topic,1
+Athens,city,Γιακουματος,topic,1
+#TiersLieuxPhD,topic,Europe,continent,1
+#WatchUsRun,topic,America],continent,1
+#Palmyra,topic,Europe,continent,1
+White House,topic,Europe,continent,1
+Kid Cudi,topic,Europe,continent,1
+Zach Orr,topic,America],continent,1
+Berlin,city,#penguinawarenessday,topic,1
+El Chapo,topic,America],continent,1
+Paris,city,#TiersLieuxPhD,topic,1
+#Inauguration,topic,Europe,continent,3
+Berlin,city,#DisruptJ20,topic,1
+Athens,city,White House,topic,1
+#Bundestag,topic,Europe,continent,1
+Paris,city,Kid Cudi,topic,1
+Paris,city,#ASMFCL,topic,1
+London,city,#LiveAtFive,topic,1
+London,city,Europe,continent,39
+#NEVERSAYGOODBYE2NE1,topic,America],continent,1
+#Rigopiano,topic,Europe,continent,2
+#CedricHerrou,topic,Europe,continent,1
+#IFindItKindOfSad,topic,Europe,continent,1
+New York,city,John Boehner,topic,1
+London,city,Saido Berahino,topic,1
+Paris,city,#FCMMHSC,topic,1
+New York,city,#NEVERSAYGOODBYE2NE1,topic,1
+Αθηνας,topic,Europe,continent,1
+Athens,city,Ουασινγκτον,topic,1
+London,city,Jessica McGraa,topic,1
+#Streif,topic,Europe,continent,1
+Andre Ayew,topic,Europe,continent,1
+Berlin,city,#Streif,topic,1
+Palmyre,topic,Europe,continent,1
+#ASMFCL,topic,Europe,continent,1
+Berlin,city,#Koblenz,topic,1
+London,city,Kincora,topic,1
+Berlin,city,Europe,continent,49
+Paris,city,Palmyre,topic,1
+#penguinawarenessday,topic,Europe,continent,2
+Jessica McGraa,topic,Europe,continent,1
+Γιακουματος,topic,Europe,continent,1
+Paris,city,#GERCRO,topic,1
+Berlin,city,#SCFFCB,topic,1
+Berlin,city,#TouchMusicVideo,topic,1
+Paris,city,Cadore,topic,1
+New York,city,#DisruptJ20,topic,1
+Athens,city,Donald Trump,topic,1
+#Gambia,topic,Europe,continent,1
+#4GBox,topic,Europe,continent,1
+#WhyICantTalkToMyEx,topic,America],continent,1
+Γκαμπια,topic,Europe,continent,1
+Athens,city,#ThankYouObama,topic,1
+John Boehner,topic,America],continent,1
+Saido Berahino,topic,Europe,continent,1
+#fussballbild,topic,Europe,continent,1
+London,city,#SUPREMEGYAL,topic,1
+Berlin,city,#Bundestag,topic,1
+#paofc,topic,Europe,continent,1
+#thevoicegr,topic,Europe,continent,1
+Berlin,city,#fussballbild,topic,1
+Berlin,city,#Sordo,topic,1
+#NewMusicFriday,topic,America],continent,1
+Donald Trump,topic,Europe,continent,2
+#Koblenz,topic,Europe,continent,1
+#London,topic,Europe,continent,1
+Berlin,city,#tbBeetches,topic,1
+New York,city,#NewMusicFriday,topic,1
+London,city,#FlashbackFriday,topic,1
+London,city,#friyay,topic,1
+London,city,#London,topic,1
+All Star Game,topic,Europe,continent,1
+Berlin,city,#Frauentausch,topic,1
+Berlin,city,Lawine in Italien,topic,1
+Berlin,city,#Palmyra,topic,1
+#SUPREMEGYAL,topic,Europe,continent,1
+Makonnen,topic,America],continent,1
+Athens,city,All Star Game,topic,1
+#Plattner,topic,Europe,continent,1
+#GERCRO,topic,Europe,continent,2
+#Sordo,topic,Europe,continent,1
+Paris,city,#Inauguration,topic,1
+London,city,#andersonprog,topic,1
+#NationalCheeseLoversDay,topic,America],continent,1
+Ανθυπατος Μουλοπουλος,topic,Europe,continent,1
+Paris,city,#CedricHerrou,topic,1
+Imperial March,topic,America],continent,1
+Cote,topic,Europe,continent,1
+New York,city,#NationalCheeseLoversDay,topic,1
+Hillary Clinton,topic,Europe,continent,1
+London,city,#NationalCheeseLoversDay,topic,1
+New York,city,Imperial March,topic,1
+Berlin,city,#M05KOE,topic,1
+Paris,city,Cote,topic,1
+London,city,Andre Ayew,topic,1
+#EULCS,topic,Europe,continent,1
+Athens,city,#paoplat,topic,1
+Paris,city,Hillary Clinton,topic,1
+#KiKaDi,topic,Europe,continent,1
+New York,city,#WhyICantTalkToMyEx,topic,1
+London,city,#penguinawarenessday,topic,1
+London,city,#AusOpen,topic,1
+Paris,city,#NEVERSAYGOODBYE2NE1,topic,1
+#buildbridgesnotwalls,topic,Europe,continent,1
+#Harburg,topic,Europe,continent,1
+#NationalCheeseLoversDay,topic,Europe,continent,1
+Τατιανα Στεφανιδου,topic,Europe,continent,1
+Lawine in Italien,topic,Europe,continent,1
+Berlin,city,#igw2017,topic,1
+Berlin,city,#Harburg,topic,1
+Berlin,city,#FCATSG,topic,1
+Athens,city,#PAOKLEV,topic,1
+Trumps to the White House,topic,America],continent,1
+Joleon Lescott,topic,Europe,continent,1
+#FNBPAO,topic,Europe,continent,1
+Athens,city,Γκαμπια,topic,1
+Berlin,city,#Hocke,topic,1
+Athens,city,#FNBPAO,topic,1
+Paris,city,Sud-Ouest,topic,1
+#HouseOfCards,topic,America],continent,1
+London,city,House of Cards,topic,1
+#igw2017,topic,Europe,continent,1
+Athens,city,#paofc,topic,1
+#CIVRDC,topic,Europe,continent,1
+London,city,#RIPGabeTheDog,topic,1
+#MourningInAmerica,topic,America],continent,1
+#M05KOE,topic,Europe,continent,1
+#DisruptJ20,topic,Europe,continent,1
+New York,city,#HouseOfCards,topic,1
+Σινγκλετον,topic,Europe,continent,1
+London,city,#PrayForTehran,topic,1
+#PAOKLEV,topic,Europe,continent,1
+Paris,city,#MARTOG,topic,1
+New York,city,#MourningInAmerica,topic,1
+Berlin,city,#S04FCI,topic,1
+Berlin,city,#Lanz,topic,1
+#cheeseyfilms,topic,Europe,continent,1
+London,city,#WhyICantTalkToMyEx,topic,1
+#AusOpen,topic,Europe,continent,2
+#shoppingstar,topic,Europe,continent,1
+#F95SCP,topic,Europe,continent,1
+Berlin,city,#einbuchstabedanebendiagnose,topic,1
+Berlin,city,#EULCS,topic,1
+#RIPGabeTheDog,topic,Europe,continent,1
+London,city,Michelle Obama,topic,1
+Athens,city,#shoppingstar,topic,1
+Berlin,city,#Plattner,topic,1
+Berlin,city,#F95SCP,topic,1
+#SCFFCB,topic,Europe,continent,1
+#PrayForTehran,topic,Europe,continent,1
+Franklin Square,topic,America],continent,1
+#S04FCI,topic,Europe,continent,1
+Memphis,topic,Europe,continent,1
+Paris,city,#FCNPSG,topic,1
+New York,city,Franklin Square,topic,1
+London,city,Kensington Palace,topic,1
+Athens,city,Τατιανα Στεφανιδου,topic,1
+#einbuchstabedanebendiagnose,topic,Europe,continent,1
+Paris,city,Memphis,topic,1
+London,city,#NEVERSAYGOODBYE2NE1,topic,1
+Sud-Ouest,topic,Europe,continent,1
+New York,city,#MyPersonalWorldRecord,topic,1
+House of Cards,topic,Europe,continent,1
+#PrimaireLeDebat,topic,Europe,continent,1
+#friyay,topic,Europe,continent,1
+Paris,city,#KiKaDi,topic,1
+New York,city,Trumps to the White House,topic,1
+Paris,city,#VendrediLecture,topic,1
+Athens,city,#giakoumatos,topic,1
+#FlashbackFriday,topic,Europe,continent,1
+Berlin,city,#Illner,topic,1
+Paris,city,Les Ivoiriens,topic,1
+#FCNPSG,topic,Europe,continent,1
+#Lanz,topic,Europe,continent,1
+Berlin,city,#Rigopiano,topic,1
+#NEVERSAYGOODBYE2NE1,topic,Europe,continent,3
+Paris,city,Valls,topic,1
+London,city,Alex Hales,topic,1
+Berlin,city,#bridgesnotwalls,topic,1
+Migrane,topic,Europe,continent,1
+Paris,city,Donald Trump,topic,1
+Michelle Obama,topic,Europe,continent,1
+Η Γερμανια,topic,Europe,continent,1
+First Lady,topic,Europe,continent,1
+Berlin,city,#Melbourne,topic,1
+#Illner,topic,Europe,continent,1
+London,city,Joleon Lescott,topic,1
+Berlin,city,#takeshiscastle,topic,1
+Athens,city,Η Γερμανια,topic,1
+Berlin,city,#shoppingqueen,topic,1
+Athens,city,Grexit,topic,1
+#svwbvb,topic,Europe,continent,1
+Paris,city,Aurier,topic,1
+Alex Hales,topic,Europe,continent,1
+#Frauentausch,topic,Europe,continent,1
+#bridgesnotwalls,topic,Europe,continent,1
+Berlin,city,#GERCRO,topic,1
+Barry Hawkins,topic,Europe,continent,1
+Paris,city,#PrimaireLeDebat,topic,1
+Paris,city,#LyonOM,topic,1
+Athens,city,Αθηνας,topic,1
+#MyPersonalWorldRecord,topic,America],continent,1
+London,city,Barry Hawkins,topic,1
+#Melbourne,topic,Europe,continent,1
+Athens,city,Σινγκλετον,topic,1
+#paoplat,topic,Europe,continent,1
+London,city,#datalab,topic,1
+#andersonprog,topic,Europe,continent,1
+#IFindItKindOfSad,topic,America],continent,1
+#WOBHSV,topic,Europe,continent,1
+#VendrediLecture,topic,Europe,continent,1
+Grexit,topic,Europe,continent,1
+London,city,#cheeseyfilms,topic,1
+Berlin,city,#Winterkorn,topic,1
+#NewMusicFriday,topic,Europe,continent,1
+Berlin,city,#Inauguration,topic,1
+Berlin,city,#hoodiefriday,topic,1
+Berlin,city,#WOBHSV,topic,1
+Achtelfinale,topic,Europe,continent,1
+#FineWomenFriday,topic,America],continent,1
+Paris,city,Europe,continent,37
+#AFCON2017,topic,Europe,continent,1
+#LyonOM,topic,Europe,continent,1
+Ralph Lauren,topic,America],continent,1
+#FCATSG,topic,Europe,continent,1
+Berlin,city,Achtelfinale,topic,1
+New York,city,#FineWomenFriday,topic,1
+Athens,city,#tatianalive,topic,1
+#datalab,topic,Europe,continent,1
+London,city,#AFCON2017,topic,1
+London,city,Project Bluebook,topic,1
+New York,city,Ralph Lauren,topic,1
+Athens,city,Παλμυρα,topic,1
+#Hocke,topic,Europe,continent,1
+#hoodiefriday,topic,Europe,continent,1
+Paris,city,#HouseOfCards,topic,1
+New York,city,#WatchUsRun,topic,1
+Berlin,city,Migrane,topic,1
+Aurier,topic,Europe,continent,1
+Paris,city,#NO2017,topic,1
+London,city,Begovic,topic,1
+Athens,city,#ΛΙΤΟΤΗΤΑ_ΤΕΛΟΣ,topic,1
+#MARTOG,topic,Europe,continent,1
+Project Bluebook,topic,Europe,continent,1
+Paris,city,#NHCPerfume,topic,1
+#WhyICantTalkToMyEx,topic,Europe,continent,1
+#TPMP,topic,Europe,continent,1
+Paris,city,Martin Fourcade,topic,1
+#HouseOfCards,topic,Europe,continent,1
+New York,city,#ThankYouObamas,topic,1
+Athens,city,#Rigopiano,topic,1
+#Winterkorn,topic,Europe,continent,1
+Paris,city,#TPMP,topic,1
+#NO2017,topic,Europe,continent,1
+New York,city,#FlashbackFriday,topic,1
+#ΛΙΤΟΤΗΤΑ_ΤΕΛΟΣ,topic,Europe,continent,1
+New York,city,#IFindItKindOfSad,topic,1
+London,city,Kay Burley,topic,1
+Melania Trump,topic,Europe,continent,1
+New York,city,El Chapo,topic,1
+Berlin,city,#jubert,topic,1
+#tatianalive,topic,Europe,continent,1
+#wef17,topic,Europe,continent,1
+Paris,city,#CIVRDC,topic,1
+Kensington Palace,topic,Europe,continent,1
+Παλμυρα,topic,Europe,continent,1
+#ThankYouObamas,topic,America],continent,1
+#EM2024,topic,Europe,continent,1
+Berlin,city,#svwbvb,topic,1
+#Wannseekonferenz,topic,Europe,continent,1
+BlackRock,topic,Europe,continent,1
+Athens,city,#TouchMusicVideo,topic,1
+Kay Burley,topic,Europe,continent,1
+London,city,BlackRock,topic,1
+Αμερικη,topic,Europe,continent,1
+#jubert,topic,Europe,continent,1
+#giakoumatos,topic,Europe,continent,1
+Berlin,city,#notmypresident,topic,1
+Athens,city,Αμερικη,topic,1
+#GruenenWoche,topic,Europe,continent,1
+New York,city,America],continent,25
+#BoulogneBillancourt,topic,Europe,continent,1
+#FridayFeeling,topic,Europe,continent,1
+Athens,city,#InaugurationDay,topic,1
+London,city,#NewMusicFriday,topic,1
+Martin Fourcade,topic,Europe,continent,1
+Valls,topic,Europe,continent,1
+Chris Matthews,topic,America],continent,1
+Berlin,city,#GruenenWoche,topic,1
+New York,city,#Inauguration,topic,1
+#TouchMusicVideo,topic,Europe,continent,2
+Paris,city,#FCGBTFC,topic,1
+New York,city,Chris Matthews,topic,1
+Athens,city,#thevoicegr,topic,1
+Hillary,topic,Europe,continent,1
+#SDT2017,topic,Europe,continent,1
+#FlashbackFriday,topic,America],continent,1
+#notmypresident,topic,Europe,continent,1
+#InaugurationDay,topic,Europe,continent,1
+#LiveAtFive,topic,Europe,continent,1
+London,city,Hillary,topic,1
+Paris,city,#SDT2017,topic,1
+#Inauguration,topic,America],continent,1
+New York,city,#PenguinAwarenessDay,topic,1
+#shoppingqueen,topic,Europe,continent,1
