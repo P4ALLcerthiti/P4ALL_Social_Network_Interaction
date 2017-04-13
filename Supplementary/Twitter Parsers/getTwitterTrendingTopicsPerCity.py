@@ -17,7 +17,7 @@ def removeEntersAndCommas(tweet):
     tweet = tweet.replace('\r','')
     return tweet    
     
-print('Hello...')
+
 now = datetime.datetime.now()
 day=int(now.day)
 month=int(now.month)
